@@ -30,11 +30,12 @@ Users would be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
+- [Desktop](./screenshot.jpg)
+- [Mobile](./ScreenShot(mobile).png)
 
 ### Links
 
-- Live Site URL: [live Site](https://cornelldev.github.io/Blogr/)
+- Live Site: [live Site](https://cornelldev.github.io/Blogr/)
 
 ## My process
 

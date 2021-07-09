@@ -30,8 +30,13 @@ Users would be able to:
 
 ### Screenshot
 
-- [Desktop](./screenshot.jpg)
-- [Mobile](./ScreenShot(mobile).png)
+### Desktop
+
+![Desktop](./screenshot.jpg)
+
+### Mobile
+
+![Mobile](./ScreenShot(mobile).png)
 
 ### Links
 
